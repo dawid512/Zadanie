@@ -1,7 +1,7 @@
 # Program stworzony na potrzeby zadania
 
 ## Spis treści 
-* [Teść zadania](#tesc-zadania)
+* [Teść zadania](#Teść Zadania)
 * [Screenshots](#screenshoots)
 
 ## Teść Zadania
@@ -46,8 +46,8 @@ Poniżej struktura pliku xml:
 </Plik>
 
 ## Screenshots
-![Example screenshot](./zadanie_ss/ss1.png)
-![Example screenshot](./zadanie_ss/ss2.png)
-![Example screenshot](./zadanie_ss/ss3.png)
-![Example screenshot](./zadanie_ss/ss4.png)
-![Example screenshot](./zadanie_ss/ss5.png)
+![Example screenshot](./zadanie_ss/ss1.PNG)
+![Example screenshot](./zadanie_ss/ss2.PNG)
+![Example screenshot](./zadanie_ss/ss3.PNG)
+![Example screenshot](./zadanie_ss/ss4.PNG)
+![Example screenshot](./zadanie_ss/ss5.PNG)
