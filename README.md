@@ -2,7 +2,7 @@
 
 ## Spis treści 
 * [Teść zadania](#Teść-Zadania)
-* [Screenshots](#screenshoots)
+* [Screenshots](#Screenshots)
 
 ## Teść Zadania
 Chciałbym abyś przygotował prostą aplikację konsolową, wpf albo windows forms - to już jak Ci wygodniej. Poniżej opiszę Ci co aplikacja ma robić:
