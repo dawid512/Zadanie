@@ -23,28 +23,28 @@ Chciałbym abyś przygotował prostą aplikację konsolową, wpf albo windows fo
 
 
 Poniżej struktura pliku xml:
-`
-<Plik>  <br/>
-<Towary>  <br/>
-<Towar>  <br/>
-<Nazwa></Nazwa>  
-<Cena></Cena>  
-<Opis>  
-<A></A>  
-<B></B>  
-</Opis>  
-</Towar>  
-<Towar>  
-<Nazwa></Nazwa>  
-<Cena></Cena>  
-<Opis>  
-<A></A>  
-<B></B>  
-</Opis>  
-</Towar>  
-</Towary>  
-</Plik>  
-`
+
+`<Plik>  `
+`<Towary>  `
+`<Towar>  `
+`<Nazwa></Nazwa> ` 
+`<Cena></Cena>  `
+`<Opis>  `
+`<A></A>  `
+`<B></B>  `
+`</Opis>  `
+`</Towar>  `
+`<Towar>  `
+`<Nazwa></Nazwa> ` 
+`<Cena></Cena>  `
+`<Opis>  `
+`<A></A>  `
+`<B></B>  `
+`</Opis>  `
+`</Towar>  `
+`</Towary>  `
+`</Plik>  `
+
 ## Screenshots
 ![Example screenshot](./zadanie_ss/ss1.PNG)
 ![Example screenshot](./zadanie_ss/ss2.PNG)
