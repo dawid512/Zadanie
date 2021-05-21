@@ -1,7 +1,7 @@
 # Program stworzony na potrzeby zadania
 
 ## Spis treści 
-* [Teść zadania](#Teść Zadania)
+* [Teść zadania](#Teść-Zadania)
 * [Screenshots](#screenshoots)
 
 ## Teść Zadania
