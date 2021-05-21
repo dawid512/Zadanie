@@ -24,9 +24,9 @@ Chciałbym abyś przygotował prostą aplikację konsolową, wpf albo windows fo
 
 Poniżej struktura pliku xml:
 `
-<Plik>  
-<Towary>  
-<Towar>  
+<Plik>  <br/>
+<Towary>  <br/>
+<Towar>  <br/>
 <Nazwa></Nazwa>  
 <Cena></Cena>  
 <Opis>  
