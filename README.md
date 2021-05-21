@@ -23,8 +23,8 @@ Chciałbym abyś przygotował prostą aplikację konsolową, wpf albo windows fo
 
 
 Poniżej struktura pliku xml:
-
-<Plik>
+`
+<Plik
 <Towary>
 <Towar>
 <Nazwa></Nazwa>
@@ -44,7 +44,7 @@ Poniżej struktura pliku xml:
 </Towar>
 </Towary>
 </Plik>
-
+`
 ## Screenshots
 ![Example screenshot](./zadanie_ss/ss1.PNG)
 ![Example screenshot](./zadanie_ss/ss2.PNG)
